@@ -39,5 +39,16 @@
     "**/{aura|lwc}/**": [
       "eslint"
     ]
-  }
+  },
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlmanasa/jun21demo.git"
+  },
+  "author": "manasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlmanasa/jun21demo/issues"
+  },
+  "homepage": "https://github.com/nlmanasa/jun21demo#readme"
 }
